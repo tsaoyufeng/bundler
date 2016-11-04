@@ -9,3 +9,25 @@
 	background-color: #64c9ef;
 	padding: 30px 2%;
 }
+.btn-margin-top {
+	margin-top: 35px;
+}
+.bg-light-blue {
+	background-color: #dbeaf3;
+	padding: 30px 2%;
+}
+pre {
+	color: #fff;
+	background-color: #373737;
+}
+pre.highlight {
+	padding: 10px;
+	font-size: 13px;
+	font-family: 'Source Code Pro', Monaco, monospace;
+}
+pre.highlight .s1 {
+	color: #65b042;
+}
+pre.highlight .ss {
+	color: #3387cc;
+}
