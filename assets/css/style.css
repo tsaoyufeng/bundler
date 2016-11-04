@@ -1,0 +1,11 @@
+.navbar {
+	margin-bottom: 0;
+}
+.navbar-default {
+	background-color: #fff;
+	border-color: #fff;
+}
+.bg-dark-blue {
+	background-color: #64c9ef;
+	padding: 30px 2%;
+}
