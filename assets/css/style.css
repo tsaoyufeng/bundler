@@ -1,3 +1,9 @@
+body {
+	font-family: "SancoaleSlab";
+	font-size: 16px;
+	color: #333333;
+}
+
 .navbar {
 	margin-bottom: 0;
 }
@@ -16,6 +22,10 @@
 	background-color: #dbeaf3;
 	padding: 30px 2%;
 }
+.btn {
+	margin-top: 10px;
+	margin-bottom: 35px;
+}
 pre {
 	color: #fff;
 	background-color: #373737;
@@ -30,4 +40,14 @@ pre.highlight .s1 {
 }
 pre.highlight .ss {
 	color: #3387cc;
+}
+.footer {
+	background-color: #55bceb;
+}
+.footer ul {
+	display: inline-block;
+	float: none !important;
+}
+.footer ul li a {
+	color: #000000;
 }
